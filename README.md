@@ -11,9 +11,8 @@ This project represents a photo management system that allows the user to do the
  - View the existing photos in all the libraries (main library and recently deleted libary) and in all the albums
 
 # *Design Patterns Used:* 
-
--Factory pattern 
--Observer pattern 
+ - Factory Pattern
+ - Observer Pattern
 
 # *Requirements:*
  - JDK 17 or later
