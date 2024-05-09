@@ -17,4 +17,6 @@ This project represents a photo management system that allows the user to do the
 # *Requirements:*
  - JDK 17 or later
 
-
+Note: Since this repository represents the 1st project of my course's Object Oriented Development subject, 
+a small ammount of classes were not authored by me, but rather by my professor. These classes are mostly the ones related to UI.
+I do not have ownership of any class that has the tag "@author antonialopes" or "@author malopes".
