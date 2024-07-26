@@ -13,6 +13,11 @@ This project represents a photo management system that allows the user to do the
 # *Design Patterns Used:* 
  - Factory Pattern
  - Observer Pattern
+ - Controller
+ - Protected Variations
+ - Indirection
+ - Singleton
+ - etc...
 
 # *Requirements:*
  - JDK 17 or later
